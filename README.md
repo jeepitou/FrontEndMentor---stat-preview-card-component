@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/jeepitou/FrontEndMentor---stat-preview-card-component)
+- Live Site URL: [Add live site URL here](https://jeepitou.github.io/FrontEndMentor---stat-preview-card-component/)
 
 ## My process
 I started with the desktop layout. I quickly managed to get a very similar layout, the biggest challenge was to add a color filter to the image (which I'm still not really satistied with...). I finally tweaked all the margin and font size to try to recreate as best as possible.
