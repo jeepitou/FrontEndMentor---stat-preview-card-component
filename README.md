@@ -15,7 +15,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -27,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/printscreen.png)
+![](/images/printscreen.png?raw=true)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jeepitou/FrontEndMentor---stat-preview-card-component)
-- Live Site URL: [Add live site URL here](https://jeepitou.github.io/FrontEndMentor---stat-preview-card-component/)
+- Solution URL: [https://github.com/jeepitou/FrontEndMentor---stat-preview-card-component](https://github.com/jeepitou/FrontEndMentor---stat-preview-card-component)
+- Live Site URL: [https://jeepitou.github.io/FrontEndMentor---stat-preview-card-component/](https://jeepitou.github.io/FrontEndMentor---stat-preview-card-component/)
 
 ## My process
 I started with the desktop layout. I quickly managed to get a very similar layout, the biggest challenge was to add a color filter to the image (which I'm still not really satistied with...). I finally tweaked all the margin and font size to try to recreate as best as possible.
