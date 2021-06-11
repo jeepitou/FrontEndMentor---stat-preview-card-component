@@ -1,0 +1,39 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+}
+
+h1 {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  font-size: 36px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+}
+
+h3 {
+  color: hsla(0, 0%, 100%, 0.6);
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Inter', sans-serif;
+}
+
+.accent {
+  color: hsl(277, 64%, 61%);
+}
+
+.main-component {
+  background-color: hsl(244, 38%, 16%);
+  border-radius: 10px;
+}

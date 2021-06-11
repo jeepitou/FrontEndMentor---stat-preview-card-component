@@ -1,0 +1,61 @@
+@media only screen and (min-width: 980px) {
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .tinted-image {
+    height: 100%;
+    width: 45%;
+    background: linear-gradient(hsla(277, 64%, 61%, 0.6), hsla(277, 64%, 61%, 0.6)), url("../images/image-header-desktop.jpg");
+    background-size: cover;
+    overflow: hidden;
+    float: right;
+    border-radius: 0 10px 10px 0;
+  }
+
+  h1 {
+    font-size: 36px;
+    margin: 0;
+    margin-bottom: 30px;
+  }
+
+  h2 {
+    margin: 0;
+    margin-bottom: 5px;
+    font-size: 22px;
+  }
+
+  h3 {
+    font-size: 12px;
+    margin: 0;
+  }
+
+  p {
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 60px;
+  }
+
+  .left-text {
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: left;
+    width: 55%;
+    height: 100%;
+    padding: 70px 100px 70px 70px;
+  }
+
+  .main-component {
+    height: 400px;
+    width: 1000px;
+  }
+
+  .stat-group {
+    display: inline-block;
+    width: 32.5%;
+  }
+}

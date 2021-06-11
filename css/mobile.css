@@ -1,0 +1,57 @@
+@media only screen and (max-width: 980px) {
+  h1 {
+    font-size: 28px;
+    margin:0;
+  }
+
+  h2 {
+    font-size: 22px;
+    margin-bottom: 2px;
+  }
+
+  h3 {
+    font-size: 12px;
+    margin:0;
+  }
+
+  p {
+    font-size: 15px;
+    line-height: 2;
+    margin-bottom: 40px;
+  }
+
+  .left-text {
+    display: block;
+    box-sizing: border-box;
+    text-align: center;
+    width: 100%;
+    height: 40%;
+    padding: 30px 30px 25px 30px;
+  }
+
+  .main-component {
+    position: relative;
+    width: 90%;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .tinted-image {
+    width: 100%;
+    height: 250px;
+    background: linear-gradient(hsla(277, 64%, 61%, 0.6), hsla(277, 64%, 61%, 0.6)), url("../images/image-header-mobile.jpg");
+    background-size: 100% 100%;
+    overflow:auto;
+    border-radius: 10px 10px 0 0;
+    float: none;
+  }
+
+  .stat-group {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+  }
+}
